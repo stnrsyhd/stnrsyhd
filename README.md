@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=stnrsyhd&label=Profile%20views&color=0e75b6&style=flat" alt="stnrsyhd" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=stnrsyhd" alt="stnrsyhd" /></a> </p>
+<p align="left"><img src="https://github-profile-trophy.vercel.app/?username=stnrsyhd" alt="stnrsyhd" /></a> </p>
 
 - 🔭 I’m currently working on **Networking & security related projects for my degree (You can explore them in my repositories!)**
 
